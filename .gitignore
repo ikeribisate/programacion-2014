@@ -20,3 +20,4 @@ nbproject/*
 *.DS_Store
 *.lock
 
+/iker-ixone/pruebas/nbproject/private/
